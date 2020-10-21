@@ -1,4 +1,4 @@
-# Mellow Trello Counter
+# Mello Trello Counter
 By Mark Tice
 
 Just counter from Mello Trello.
