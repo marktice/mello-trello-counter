@@ -3,6 +3,9 @@
   "name": "Mellow Trello Counter",
   "description": "It's Trello but mello. Shows card counter in lists and updates when searching.",
   "version": "0.1.0",
+  "icons": {
+    "64": "mello-trello64.png"
+  },
   "background": {
     "scripts": ["background.js"]
   },
